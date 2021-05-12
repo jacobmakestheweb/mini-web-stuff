@@ -4,13 +4,14 @@ collection of tiny javascript utils
 ## liljs
 a tiny javascript util for basic dom manipulation
 
-USAGE: 
-      - use the 'dom' namespace to access the DOM jquery style:
+USAGE:
 
-      - use data-switch HTML data attribute:
-      
-      - use data-class HTML attribute:
-
+Access DOM with dom namespace: 
+                               -
+Add class to element:
+                     -
+Remove Class from element:
+                            -
 
   
  
