@@ -1,10 +1,10 @@
 # mini-web-stuff
 collection of tiny javascript utils
 
-## liljs
+## LILJS
 a tiny javascript util for basic dom manipulation
 
-### USAGE: 
+### usage: 
 
 the most basic way to use is just like jQuery with the 'dom' namespace 
 
