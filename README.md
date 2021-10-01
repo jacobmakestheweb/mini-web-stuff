@@ -24,12 +24,6 @@ the most basic way to use is just like jQuery with the 'dom' namespace
 
       dom('selector').each(function('selector') {
         // callback function body
-      } 
+      }
 
-you can also use HTML data attributes to create UI button switches for CSS classes
-
-#### Docs to be continued ...
-  
- 
-
-## more to come ??
+## more lil utils to come (??)
